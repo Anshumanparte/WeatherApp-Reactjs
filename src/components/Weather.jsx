@@ -1,4 +1,4 @@
-import search_icon from '/src/assets/Search.png'
+import search_icon from '/src/assets/search.png'
 import cloud_icon from '/src/assets/cloud.png'
 import drizzle_icon from '/src/assets/drizzle.png'
 import humidity_icon from '/src/assets/humidity.png'
